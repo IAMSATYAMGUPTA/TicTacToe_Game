@@ -1,0 +1,4 @@
+storePassword=<password from previous step>
+keyPassword=sat123123sat
+keyAlias=upload
+storeFile=c:/Users/Satyam/upload-keystore.jks
